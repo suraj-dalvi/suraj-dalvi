@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-dalvi&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-dalvi" /> </p>
 
-- ### 🕸️ My Personal Website :  👉  **https://suraj-dalvi.github.io/** 👈
+- ### 🕸️ My Personal Website :  👉  **https://surajdalvi.me/** 👈
 
 - ### 📚 All My Repos : 👉 https://github.com/suraj-dalvi?tab=repositories 👈
 
