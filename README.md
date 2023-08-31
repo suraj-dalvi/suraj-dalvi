@@ -10,7 +10,7 @@
 
 - ### 📚 All My Repos : 👉 https://github.com/suraj-dalvi?tab=repositories 👈
 
-- ### 🗣️ Coding Talks....💐
+- ### 🗣️ Coding Talks...💐
 
 -           ### TALK IS JUST CHEAP, SHOW ME THE CODE...!
 -           ### AS CODE NEVER LIES BUT COMMENTS SOMETIMES DO...!
